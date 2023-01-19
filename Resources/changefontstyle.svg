@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="Layer_1" style="enable-background:new 0 0 32 32">
+  <style type="text/css">
+	.Red{fill:#D11C1C;}
+	.Black{fill:#727272;}
+	.Blue{fill:#1177D7;}
+	.Yellow{fill:#FFB115;}
+</style>
+  <path d="M7.66,18h7.74l0.23-0.23l0,0l2.55-2.55L13.55,2H9.7L2,24h3.85L7.66,18z M11.63,6.12l2.9,8.88H8.71  C8.71,15,11.49,6.67,11.63,6.12z" class="Blue" />
+  <path d="M14.61,22.31c3.08,3.08,0,0,3.08,3.08C16.15,30,11.62,30,8,30C11.46,26.54,11.77,22.31,14.61,22.31z" class="Yellow" />
+  <path d="M29.77,12.92l-2.69-2.69c-0.31-0.31-0.77-0.31-1.08,0l-7.54,7.54l3.77,3.77L29.77,14  C30.07,13.77,30.07,13.23,29.77,12.92z" class="Red" />
+  <path d="M17.38,18.85l-1.46,1.46c-0.31,0.31-0.31,0.77,0,1.08l2.69,2.69c0.31,0.31,0.77,0.31,1.08,0l1.46-1.46  L17.38,18.85z" class="Black" />
+</svg>

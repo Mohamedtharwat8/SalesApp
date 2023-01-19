@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="Layer_1" style="enable-background:new 0 0 32 32">
+  <style type="text/css">
+	.Yellow{fill:#FFB115;}
+	.Red{fill:#D11C1C;}
+	.Black{fill:#727272;}
+	.Green{fill:#039C23;}
+	.Blue{fill:#1177D7;}
+</style>
+  <g id="Store">
+    <rect x="24" y="16" width="2" height="12" rx="0" ry="0" class="Red" />
+    <polygon points="16,22 8,22 8,16 6,16 6,22 6,28 8,28 16,28 18,28 18,22 18,16 16,16  " class="Red" />
+    <path d="M26,4H6L2,8v2v0.5C2,12.4,3.6,14,5.5,14S9,12.4,9,10.5c0,1.9,1.6,3.5,3.5,3.5c1.9,0,3.5-1.6,3.5-3.5   c0,1.9,1.6,3.5,3.5,3.5s3.5-1.6,3.5-3.5c0,1.9,1.6,3.5,3.5,3.5s3.5-1.6,3.5-3.5V10V8L26,4z" class="Red" />
+  </g>
+</svg>
